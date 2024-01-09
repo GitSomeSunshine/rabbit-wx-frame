@@ -1,4 +1,4 @@
-### 本框架仅支持3.6.0.18版本的微信，可加交流QQ群（685818242）下载官方安装包
+### 本框架仅支持3.6.0.18版本的微信，可加交流QQ群（[685818242](https://qm.qq.com/cgi-bin/qm/qr?k=YcBdRmPqog1Ua6e5hw9vrldZ6sIeefRk&jump_from=webapi&authKey=UoFt17Z79PhEs5FURDT0dT3o9qoeFkpf2U9+rql/2a+pg7/6c4PeD4JeJDEMqrMt&group_code=685818242)）下载官方安装包
 
 ### 本框架不收取任何费用，完全免费，仅供测试、学习，请勿用于商业用途、违法内容等
 
